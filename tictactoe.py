@@ -1,13 +1,3 @@
-# Project 3 - Tic-Tac-Toe Simulator
-# 
-# Name: Richard Rios, Nic Doorlay
-# Instructor: S. Einakian 
-# Section: 6
-
-
-#make sure initial list is [" "," "," "," "," "," "," "," "," "] 
-#spaces are necessary in the empty string for the board to print correctly
-
 from tictactoeFuncs import *
 from random import *
 
